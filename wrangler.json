@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "winter-field-320c",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "feb3446f-fed7-4949-83c0-32efc34452c5",
+      "database_name": "winter-field-320c-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
